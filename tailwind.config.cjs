@@ -19,4 +19,8 @@ module.exports = {
     },
   },
   plugins: [],
+  safelist: [
+    {pattern: /ring-(color_1|color_2|color_3)/},
+    {pattern: /bg-(color_1|color_2|color_3)/}
+  ]
 }

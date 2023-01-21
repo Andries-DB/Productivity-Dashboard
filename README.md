@@ -1,7 +1,27 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Productivity Dashboard
 
-## Recommended IDE Setup
+This is my first project in Vue. I followed a tutorial via youtube and made 
+a clone of a design on pinterest. It is my first time using vue and it was just 
+to get used to it. I also used tailwindcss
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Authors
+
+- [@Andries-DB](https://www.github.com/Andries-DB)
+
+
+## Installation
+
+Install my-project with npm & github
+
+```bash
+  git clone https://github.com/Andries-DB/Productivity-Dashboard.git
+  cd Productivity-Dashboard
+  npm Install
+  npm run dev
+```
+    
+## Deployment
+
+I didn't deploy the project as it is a clone and a test of Vue.
